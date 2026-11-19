@@ -1,0 +1,7 @@
+"Event","Background_facies","n_pairs","correlation_coefficient_r","ci_low_95","ci_high_95","t_value","df","p_value","conclusion","note","p_adjusted_Holm"
+"ETAE","Clastic",6,0.960726022949721,0.677061490850869,0.995841553205378,6.92418483891844,4,0.00228337892988536,"Significant linear correlation (unadjusted p)",,0.00685013678965609
+"ETAE","Carbonate",3,0.684399270763854,,,0.93868097712488,1,0.520129094485109,"Linear correlation not significant (unadjusted p)",,0.520129094485109
+"ETAE","Mixed",2,,,,,,,"Fewer than 3 complete pairs; Pearson correlation unavailable.",,
+"PTAE","Carbonate",9,0.967121898173168,0.847047468387184,0.993275814115762,10.0614652683812,7,2.05468885109131e-05,"Significant linear correlation (unadjusted p)",,8.21875540436522e-05
+"PTAE","Mixed",5,0.77920169059124,-0.329768625370418,0.984595000538281,2.15327773757217,3,0.120335406009146,"Linear correlation not significant (unadjusted p)",,0.240670812018291
+"PTAE","Clastic",2,,,,,,,"Fewer than 3 complete pairs; Pearson correlation unavailable.",,

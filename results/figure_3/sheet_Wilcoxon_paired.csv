@@ -1,0 +1,3 @@
+"Event","n_pairs","mean_background","mean_during","median_background","median_during","V_statistic","p_value","conclusion","note","p_adjusted_Holm"
+"ETAE",11,2.47771526785046,2.43601123903688,2.85778133523884,2.55810838772486,31,0.893903721815722,"Paired location difference not significant (unadjusted p)","Wilcoxon is not a test of mean differences;  it assesses the location of paired differences.",0.893903721815722
+"PTAE",17,0.733034296634204,0.367488383024207,1.50919094827962,0.456289093480387,,,"Not performed: both marginal normality checks passed; using paired t-test.",,

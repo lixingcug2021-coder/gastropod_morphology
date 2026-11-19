@@ -1,0 +1,14 @@
+# TEMPLATE ONLY. Replace placeholders and move to /CITATION.cff before release.
+cff-version: 1.2.0
+message: "If you use this code and its associated data, please cite the archived release."
+type: software
+title: "REPLACE_WITH_DEPOSIT_TITLE"
+authors:
+  - family-names: "REPLACE_WITH_AUTHOR_FAMILY_NAME"
+    given-names: "REPLACE_WITH_AUTHOR_GIVEN_NAMES"
+# Add all actual authors in the intended order; optional ORCID fields may be added.
+# version: "1.0.0"
+# date-released: "YYYY-MM-DD"
+# repository-code: "https://github.com/OWNER/REPOSITORY"
+# doi: "REPLACE_WITH_VERSION_DOI"
+# license: "REPLACE_WITH_CHOSEN_SPDX_IDENTIFIER"

@@ -1,0 +1,19 @@
+"Event","Classification","n","W","p_value","note","variable","p_adjusted_Holm"
+"ETAE","Adenogonogastropoda",3,0.900471014324048,0.387002564273577,,"Background_aspect_ratio",1
+"ETAE","Adenogonogastropoda",3,0.978155775949564,0.71668886405288,,"During_aspect_ratio",1
+"ETAE","Adenogonogastropoda",3,0.835913219449807,0.203469786926687,,"Difference: During - Background",1
+"ETAE","Archaeobranchia",1,,,"Fewer than 3 observations; Shapiro-Wilk unavailable.","Background_aspect_ratio",
+"ETAE","Archaeobranchia",1,,,"Fewer than 3 observations; Shapiro-Wilk unavailable.","During_aspect_ratio",
+"ETAE","Archaeobranchia",1,,,"Fewer than 3 observations; Shapiro-Wilk unavailable.","Difference: During - Background",
+"ETAE","Vetigastropoda",7,0.97728637392136,0.945360725501481,,"Background_aspect_ratio",1
+"ETAE","Vetigastropoda",7,0.970169561816987,0.899668545257422,,"During_aspect_ratio",1
+"ETAE","Vetigastropoda",7,0.919615857357456,0.466413679828261,,"Difference: During - Background",1
+"PTAE","Adenogonogastropoda",6,0.960863635416131,0.826371502835482,,"Background_aspect_ratio",1
+"PTAE","Adenogonogastropoda",6,0.857994326373065,0.182390638311909,,"During_aspect_ratio",0.911953191559545
+"PTAE","Adenogonogastropoda",6,0.902793912556011,0.390707900104706,,"Difference: During - Background",1
+"PTAE","Amphigastropoda",4,0.819759494995278,0.142637333370818,,"Background_aspect_ratio",0.570549333483273
+"PTAE","Amphigastropoda",4,0.857866940594802,0.252668801464525,,"During_aspect_ratio",1
+"PTAE","Amphigastropoda",4,0.868640639426394,0.292386221789761,,"Difference: During - Background",1
+"PTAE","Vetigastropoda",7,0.834855666004587,0.0889281667275281,,"Background_aspect_ratio",0.444640833637641
+"PTAE","Vetigastropoda",7,0.961918187308681,0.835013530254045,,"During_aspect_ratio",1
+"PTAE","Vetigastropoda",7,0.896962863936103,0.312985550827099,,"Difference: During - Background",1

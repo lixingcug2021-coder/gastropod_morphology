@@ -1,0 +1,3 @@
+"Event","N_paired_Genus","Background_variance","During_variance","Variance_ratio_Background_During","Pitman_Morgan_r","p_value","Conclusion","Note"
+"PTAE",17,0.0485969,0.02922645,1.66277152,0.5002965,0.04083024,"Significant variance difference (unadjusted p)","p <= 0.05; equal-variance null rejected."
+"ETAE",11,0.10205546,0.06352111,1.6066384,0.73769278,0.00956019,"Significant variance difference (unadjusted p)","p <= 0.05; equal-variance null rejected."

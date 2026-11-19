@@ -1,0 +1,3 @@
+"Event","n_pairs","variance_background","variance_during","variance_ratio_background_over_during","statistic","df","p_value","conclusion","note","p_adjusted_Holm"
+"ETAE",11,,,,,,,"Not performed: marginal normality checks did not both pass.",,
+"PTAE",17,3.79254071813237,1.43191894886966,2.64857219825616,3.4024017036854,"15",0.00393832662722482,"Significant paired variance difference (unadjusted p)","Null: Background and During population variances are equal.",0.00393832662722482

@@ -1,0 +1,50 @@
+[
+  {
+    "original_filename": "Figure 1 Shell aspect ratio - Paired Analysis- data.xlsx",
+    "repository_path": "analyses/figure_1/data.xlsx",
+    "original_sha256": "c501616f89b9b8e40759b525160dfd7002c8dad651c9961cc92782d6b045a0a8",
+    "change": "byte-identical copy"
+  },
+  {
+    "original_filename": "Figure 1 Shell aspect ratio - Paired Analysis- code.txt",
+    "repository_path": "analyses/figure_1/analysis.R",
+    "original_sha256": "d7352d1ddac6357165c120e9510fbda32c64ee3af99e08f21decf515340de78f",
+    "change": "portable paths, explicit dependency setup, translated labels, session logging; calculations retained"
+  },
+  {
+    "original_filename": "Figure 3 Shell size - Paired Analysis- data.xlsx",
+    "repository_path": "analyses/figure_3/data.xlsx",
+    "original_sha256": "ca656a99a89c1354d808f183bfd235adafed27e46af943c7b6df92d7d8ae26d3",
+    "change": "byte-identical copy"
+  },
+  {
+    "original_filename": "Figure 3 Shell size - Paired Analysis- code.txt",
+    "repository_path": "analyses/figure_3/analysis.R",
+    "original_sha256": "b5c31853404347945af5dc983402be499cbb3f5765a7901612ef7d2550bfe9b9",
+    "change": "portable paths, explicit dependency setup, translated labels, session logging; calculations retained"
+  },
+  {
+    "original_filename": "Supplementary Fig 3 - data.xlsx",
+    "repository_path": "analyses/supplementary_figure_3/data.xlsx",
+    "original_sha256": "16478b0e560be92e9ee764d1b22636d1e2a504087b88f55b53743e47e9f9e14d",
+    "change": "byte-identical copy"
+  },
+  {
+    "original_filename": "Supplementary Fig 3 - code.txt",
+    "repository_path": "analyses/supplementary_figure_3/analysis.R",
+    "original_sha256": "b7258ea27651b933118ceedf6e7c9897d8fa3afe7bd240798c66c5dccf12dd54",
+    "change": "portable paths, explicit dependency setup, translated labels, session logging; calculations retained"
+  },
+  {
+    "original_filename": "Supplementary Fig 7 - data.xlsx",
+    "repository_path": "analyses/supplementary_figure_7/data.xlsx",
+    "original_sha256": "2a99317e100be45d8ed255139231fcec87a5a33763ff620679d344a5eea389e7",
+    "change": "byte-identical copy"
+  },
+  {
+    "original_filename": "Supplementary Fig 7 - code.txt",
+    "repository_path": "analyses/supplementary_figure_7/analysis.R",
+    "original_sha256": "f023fd71a2db14c30968aabb0c1bf4bf39c6e56cfd033e1eb77274e46cd4b871",
+    "change": "portable paths, explicit dependency setup, translated labels, session logging; calculations retained"
+  }
+]

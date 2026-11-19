@@ -1,0 +1,7 @@
+"Event","Classification","n","median_change","p_value","note","p_adjusted_Holm"
+"ETAE","Adenogonogastropoda",3,-0.05489246,0.18144920772142,,0.725796830885681
+"ETAE","Archaeobranchia",1,0.09129489,1,,1
+"ETAE","Vetigastropoda",7,0.02097428,0.204893893816379,,0.725796830885681
+"PTAE","Adenogonogastropoda",6,-0.077844475,0.142213241936393,,0.711066209681963
+"PTAE","Amphigastropoda",4,0.065909615,0.100348246462291,,0.602089478773745
+"PTAE","Vetigastropoda",7,0.03577878,0.672603817441517,,1

@@ -1,0 +1,3 @@
+"Event","N_paired_Genus","Correlation_r","p_value","Confidence_Lower_95","Confidence_Upper_95","Method","Conclusion","Note"
+"PTAE",17,0.89564515,1.18e-06,0.72869364,0.96211274,"Pearson correlation","Significant linear correlation (unadjusted p)","p <= 0.05"
+"ETAE",11,0.97572341,3.1e-07,0.90634038,0.99387271,"Pearson correlation","Significant linear correlation (unadjusted p)","p <= 0.05"

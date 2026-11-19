@@ -1,0 +1,5 @@
+"Event","Time","N","Mean","SD","Variance","W","p_value","Normality","Note"
+"PTAE","Background",17,0.12283725,0.22044705,0.0485969,0.96778886,0.77865035,"Normality not rejected","p > 0.05; normality not rejected."
+"PTAE","During",17,0.1249231,0.17095744,0.02922645,0.95142183,0.47939378,"Normality not rejected","p > 0.05; normality not rejected."
+"ETAE","Background",11,0.11055577,0.3194612,0.10205546,0.98171643,0.9749468,"Normality not rejected","p > 0.05; normality not rejected."
+"ETAE","During",11,0.09936277,0.25203395,0.06352111,0.93394029,0.45207344,"Normality not rejected","p > 0.05; normality not rejected."

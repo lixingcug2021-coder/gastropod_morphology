@@ -1,0 +1,7 @@
+"Event","Background_facies","n_pairs","variance_background","variance_during","variance_ratio_background_over_during","ratio_ci_low_95","ratio_ci_high_95","statistic_t","df","p_value","conclusion","note","p_adjusted_Holm"
+"ETAE","Clastic",6,0.0993090370352569,0.0590024450292242,1.68313426648792,0.793012546094808,3.57237848628832,1.89751750947084,4,0.130612369898964,"Paired variance difference not significant (unadjusted p)","Null: Background and During population variances are equal.",0.391837109696893
+"ETAE","Carbonate",3,0.00310826254419253,0.0031355097298419,0.991310125626451,0.00287088425403045,342.297243013878,-0.00598531773065813,1,0.996189673888736,"Paired variance difference not significant (unadjusted p)","Null: Background and During population variances are equal.",1
+"ETAE","Mixed",2,,,,,,,,,"Not performed: marginal normality checks did not both pass.",,
+"PTAE","Carbonate",9,0.0635995275564231,0.036828191821799,1.72692506501983,1.10030375107637,2.7104062648849,2.87741774266563,7,0.0237389999829936,"Significant paired variance difference (unadjusted p)","Null: Background and During population variances are equal.",0.0949559999319742
+"PTAE","Mixed",5,0.0301323938751349,0.0261994889779608,1.15011380185631,0.160509432796323,8.2410219398064,0.193406196912724,3,0.858994804968427,"Paired variance difference not significant (unadjusted p)","Null: Background and During population variances are equal.",1
+"PTAE","Clastic",2,,,,,,,,,"Not performed: marginal normality checks did not both pass.",,

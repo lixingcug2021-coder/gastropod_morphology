@@ -1,0 +1,7 @@
+"Event","variable","n","W","p_value","conclusion","note"
+"ETAE","Background log10 V",11,0.820183503058874,0.017343134616049,"Normality rejected",
+"ETAE","During log10 V",11,0.909264498186208,0.23904426294254,"Normality not rejected",
+"ETAE","Difference During - Background",11,0.913537486436303,0.268426440052314,"Normality not rejected","Normality of paired differences is reported as a diagnostic for the paired t-test."
+"PTAE","Background log10 V",17,0.926924831165946,0.193268954348291,"Normality not rejected",
+"PTAE","During log10 V",17,0.905573591465073,0.0842443359693951,"Normality not rejected",
+"PTAE","Difference During - Background",17,0.9753349535525,0.903187550530281,"Normality not rejected","Normality of paired differences is reported as a diagnostic for the paired t-test."

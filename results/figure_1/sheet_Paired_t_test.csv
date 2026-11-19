@@ -1,0 +1,3 @@
+"Event","N_paired_Genus","Background_mean","During_mean","Mean_difference_Background_minus_During","t_value","df","p_value","Confidence_Lower_95","Confidence_Upper_95","Conclusion","Note"
+"PTAE",17,0.12283725,0.1249231,-0.00208585,-0.08467915,16,0.93356698,-0.05430431,0.0501326,"Mean difference not significant (unadjusted p)","p > 0.05; zero mean-difference null not rejected."
+"ETAE",11,0.11055577,0.09936277,0.011193,0.40370884,10,0.69492455,-0.05058311,0.07296912,"Mean difference not significant (unadjusted p)","p > 0.05; zero mean-difference null not rejected."
